@@ -1,8 +1,13 @@
 # robosin
 
-### Discord bot that plays youtube videos
+### Discord bot that plays youtube videos (It's full of inside jokes)
 
-- **!bosin** *[youtube link]* -> Plays audion from provided youtube video, or adds it to the queue if any is already playing
-- **!skip** -> Skips the video currently playing
-- **!fila** -> Shows the videos in the queue
-- **!vaza** -> Disconnects the bot from the voice channel
+- `!bosin <Link do YouTube>`: Adiciona uma música a fila.
+- `!fila`: Mostra a fila de vídeos a serem tocados.
+- `!vaza`: Me expulsa da call e me deixa puto.
+- `!limpa`: Limpa a fila.
+- `!move <Posição atual> <Nova posição>`: Muda a order da musica selecionada.
+- `!tira <Posição>`: Tira uma musíca da fila.
+- `!bosinskip <Link do YouTube>`: Pula a música atual e toca a solicitada.
+- `!skip`: Pula a música atual.
+- `!clube`: Xenofobia.
